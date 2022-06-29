@@ -29,4 +29,4 @@ MIT
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
    [Duplicate Image Demo]: <https://github.com/UKPLab/sentence-transformers/blob/master/examples/applications/image-search/Image_Duplicates.ipynb>
-   [Streamlit Demo]: <https://github.com/streamlit/demo-self-driving/blob/a3ea599ff44f9b0f1f0613490f2e49382c5fd0e2/streamlit_app.py#L200>
+   [Streamlit Demo]: <https://github.com/streamlit/demo-self-driving/blob/a3ea599ff44f9b0f1f0613490f2e49382c5fd0e2/streamlit_app.py>
