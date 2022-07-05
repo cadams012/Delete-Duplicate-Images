@@ -1,4 +1,4 @@
-# Delete duplicate images from specified directories
+# Remove duplicates from specified directories
 
 **This tool allows the user to search specified directories for duplicate or near duplicate images and delete them.**
 
