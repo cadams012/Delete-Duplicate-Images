@@ -17,7 +17,7 @@ The tool is built on [SentenceTransformers](https://www.sbert.net/) which is a P
 - Run the remaining cells to open the tool, and follow the instructions to navigate through duplicates ("Previous/Next") and to delete highlighted duplicates ("Delete & Continue").
 - **Warning: The tool does not have functionality to recover images accidentally deleted by the user, so please be careful.**
 
-##Future Improvements
+## Future Improvements
 
 - Clustering similar images together using density based clustering techniques (e.g. DBSCAN) rather than iteratively looping through images and identifying later images which are similar.
 - Reworking the Matplotlib buttons as an issue in Matplotlib thought to be introduced in v3.3.1 has slowed down the operation of the event handling features of the buttons.
